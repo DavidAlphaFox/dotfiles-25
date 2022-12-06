@@ -2,4 +2,4 @@
 These rices are inspired by some of my classmates
 
 ### Nota
-Greek inspired theme, with Gruvbox colors. 
+Gruvbox theme, inspired by Greek and Roman mithology
